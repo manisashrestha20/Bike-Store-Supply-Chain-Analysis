@@ -45,22 +45,6 @@ Prioritize Restocking: Focus on the 25 zero-stock products to reduce the late sh
 
 Staffing Adjustments: Increase logistics staff on Sundays to handle peak shipping volumes.
 
-## Project Dashboard
-
-##Revenue Leaderboard
-<img width="906" height="508" alt="Revenue Leaderboard" src="https://github.com/user-attachments/assets/44759dd4-a0cd-4e12-9ce2-e3c5e1bd296a" />
-
-## Shipping Crisis
-<img width="910" height="507" alt="Shipping Crisis" src="https://github.com/user-attachments/assets/1a2468d9-a48b-4cfe-949f-7979af1d74e6" />
-
-## Inventory Strategy
-<img width="741" height="445" alt="Inventory Strategy" src="https://github.com/user-attachments/assets/f68f7e5c-fbbc-46e6-b6bc-8e73e88d1554" />
-
-## Executive Dashboard
-<img width="656" height="451" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/8466333f-a16a-445c-9129-5869e7e691bf" />
-
-
-
 
 
 
